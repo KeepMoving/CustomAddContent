@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<portlets>
+
+	<portlet>
+		<portletId>33</portletId>
+		<author>Liferay</author>
+		<description>this is a blog</description>
+		<createDate>2011-12-14</createDate>
+		<imageUrl>/images/portlet.gif</imageUrl>
+	</portlet>
+
+	<portlet>
+		<portletId>115</portletId>
+		<author>Liferay</author>
+		<description>this is what</description>
+		<createDate>2011-12-14</createDate>
+		<imageUrl>/images/portlet.gif</imageUrl>
+	</portlet>
+
+	<portlet>
+		<portletId>8</portletId>
+		<author>Liferay</author>
+		<description>Calendar</description>
+		<createDate>2011-12-14</createDate>
+		<imageUrl>/images/portlet.gif</imageUrl>
+	</portlet>
+
+	<portlet>
+		<portletId>19</portletId>
+		<author>Liferay</author>
+		<description>Message</description>
+		<createDate>2011-12-14</createDate>
+		<imageUrl>/images/portlet.gif</imageUrl>
+	</portlet>
+
+</portlets>
